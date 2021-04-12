@@ -1,0 +1,24 @@
+The result is:
+                _c1  avg(mean)  count(_c0)
+0            Action   3.158533        1175
+1         Adventure   3.168709         707
+2         Animation   3.175885         223
+3            Comedy   3.137049        2113
+4             Crime   3.162584         907
+5       Documentary   3.074236         503
+6             Drama   3.139122        3724
+7            Family   3.156905         386
+8           Fantasy   3.142914         463
+9           Foreign   3.113986         271
+10          History   3.118791         306
+11           Horror   3.134020         723
+12            Music   3.189048         248
+13          Mystery   3.148769         475
+14          Romance   3.156278        1206
+15  Science Fiction   3.157164         593
+16         TV Movie   3.148118          87
+17         Thriller   3.148282        1427
+18              War   3.114663         231
+19          Western   3.214061         185
+Time execution of query is:
+17.072284698486328

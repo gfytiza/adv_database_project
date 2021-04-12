@@ -1,0 +1,8 @@
+he result is:
+   avg(CAST(var2 AS DOUBLE)) var1  count(var1)
+0                  57.772664    1         2151
+1                  54.557111    2         3143
+2                  57.132997    3         3564
+3                  49.377532    4         1629
+Execution time of query is:
+8.934415340423584

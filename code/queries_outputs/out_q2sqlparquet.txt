@@ -1,0 +1,4 @@
+The result is:
+61.54797413029355
+Execution time of query is:
+14.8743577003479
